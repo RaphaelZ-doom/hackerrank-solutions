@@ -10,9 +10,9 @@ Check out my HackerRank profile: https://www.hackerrank.com/profile/raphael21bic
 
 ## 📂 Organization
 The solutions are organized by Difficulty/Topic , such as:
-* **Warmup**
-* **Implementation**
-* **Strings**
-* **Sorting**
-
+* **Algorithms**
+* **DataStructures**
+* **Medium**
+* **Hard**
+* 
 Each file contains the problem's solution and, when necessary, comments explaining the logic or the time/space complexity.
