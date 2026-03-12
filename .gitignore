@@ -1,0 +1,21 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio temporary files
+*.user
+*.suo
+
+# Rider
+*.ipr
+*.iws
+*.idea/
+
+# VSCode
+.vscode/
+
+# NuGet packages
+*.nupkg
+
+# Other
+*.log
